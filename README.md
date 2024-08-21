@@ -23,8 +23,4 @@ I'm Dmitry Filimov, a Backend Engineer with more than 2 years of experience.
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/mongodb/mongodb.png" />
 <img align="left" alt="Kubernetes" width="32px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" />
 
-<br/>
 
----
-
-Если нужно что-то еще, дай знать!
