@@ -4,9 +4,9 @@ I'm Dmitry Filimov, a Backend Engineer with more than 2 years of experience.
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Dmitry_Filimov-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/d-trutniev/](https://www.linkedin.com/in/dmitry-filimov-a46835324/)) 
-[![Telegram Badge](https://img.shields.io/badge/-@campot05-229ed9?style=flat&labelColor=229ed9&logo=telegram&logoColor=white)](https://t.me/campot05) 
-[![Mail Badge](https://img.shields.io/badge/-Danylo_Trutniev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:d.trutniev@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Dmitry_Filimov-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-filimov-a46835324/) 
+[![Telegram Badge](https://img.shields.io/badge/-@knaus94-229ed9?style=flat&labelColor=229ed9&logo=telegram&logoColor=white)](https://t.me/knaus94) 
+[![Mail Badge](https://img.shields.io/badge/-Dmitry_Filimov-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:d1.filimov@gmail.com)
 
 ### My stack
 
