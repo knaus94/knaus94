@@ -1,6 +1,6 @@
 ## Hi, I'm Dmitry 👋
 
-I'm Dmitry Filimov, a Backend Engineer with more than 3 years of experience.
+I'm Dmitry Filimov, a Backend Engineer with more than 4 years of experience.
 
 :mailbox: Reach me out!
 
