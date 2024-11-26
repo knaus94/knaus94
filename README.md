@@ -25,4 +25,4 @@ Let's innovate and create together! 🚀
 
 ![Top Langs](https://github-readme-stats-wheat-gamma-88.vercel.app/api/top-langs/?username=knaus94&exclude_repo=codingdojo&layout=compact&theme=dracula)
 
-![stats](https://github-readme-stats-wheat-gamma-88.vercel.app/api/stats/?user=knaus94&theme=dracula)
+![stats](https://github-readme-streak-stats.herokuapp.com/?user=knaus94&theme=dracula)
