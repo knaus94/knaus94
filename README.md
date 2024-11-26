@@ -13,8 +13,6 @@ I specialize in creating scalable systems using NestJS and have extensive experi
 
 Beyond backend development, I possess a strong foundation in DevOps, including expertise in Docker, Kubernetes, and infrastructure automation. I am proficient in designing and managing CI/CD pipelines, implementing containerized environments, configuring cloud-native solutions, and maintaining highly available, secure, and optimized production systems. My skill set extends to infrastructure-as-code (IaC) tools such as Terraform and monitoring systems like Prometheus and Grafana, ensuring operational excellence at every stage of the deployment lifecycle.
 
-I pride myself on taking an innovative and analytical approach to problem-solving, ensuring efficient, scalable, and maintainable solutions. I continuously refine my skills to adapt to emerging technologies and industry demands.
-
 ### Get in Touch
 
 I'm always open to new opportunities and collaborations. If you'd like to connect, feel free to reach out through the email on my profile or connect on [LinkedIn](https://linkedin.com/in/dmitry-filimov-a46835324).
