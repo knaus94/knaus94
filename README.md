@@ -9,7 +9,7 @@
 
 I am an experienced Backend Engineer with over 5 years of experience. 
 
-I specialize in development using NestJS and am proficient in programming languages such as PHP, Bash, Node.js, TypeScript, Golang, and Python.
+I specialize in development using NestJS and am proficient in programming languages such as PHP, Bash, Node.js, Javascript/TypeScript, Golang, and Python.
 
 My strength lies in taking an innovative approach to new projects and having a deep understanding of various technologies. 
 
