@@ -21,8 +21,8 @@ I'm always open to new opportunities and collaborations. If you'd like to connec
 
 Let's innovate and create together! 🚀
 
-![knaus84's GitHub stats](https://github-readme-stats.vercel.app/api?username=knaus84&theme=dracula&show_icons=true)
+![knaus84's GitHub stats](https://github-readme-stats-wheat-gamma-88.vercel.app/api?username=knaus84&theme=dracula&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knaus84&exclude_repo=codingdojo&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats-wheat-gamma-88.vercel.app/api/top-langs/?username=knaus84&exclude_repo=codingdojo&layout=compact&theme=dracula)
 
-![stats](https://github-readme-streak-stats.herokuapp.com/?user=knaus84&theme=dracula)
+![stats](https://github-readme-stats-wheat-gamma-88.vercel.app/?user=knaus84&theme=dracula)
