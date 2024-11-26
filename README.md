@@ -1,26 +1,28 @@
-## Hi, I'm Dmitry 👋
+<h1 align="center">Hello, I'm Dmitry Filimov 👋</h1>
 
-I'm Dmitry Filimov, a Backend Engineer with more than 4 years of experience.
+<p align="center">
+  <a href="https://github.com/knaus84">GitHub</a> •
+  <a href="https://linkedin.com/in/dmitry-filimov-a46835324">LinkedIn</a>
+</p>
 
-:mailbox: Reach me out!
+### About Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Dmitry_Filimov-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-filimov-a46835324/) 
-[![Telegram Badge](https://img.shields.io/badge/-@knaus94-229ed9?style=flat&labelColor=229ed9&logo=telegram&logoColor=white)](https://t.me/knaus94) 
-[![Mail Badge](https://img.shields.io/badge/-Dmitry_Filimov-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:d1.filimov@gmail.com)
+I am an experienced Backend Engineer with over 5 years of experience at Laxamentum Technologies. 
 
-### My stack
+I specialize in development using NestJS and am proficient in programming languages such as PHP, Bash, Node.js, TypeScript, Golang, and Python.
 
-<img align="left" alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/docker/docker.png" />
-<img align="left" alt="Express" width="32px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/express/express.png" />
-<img align="left" alt="GraphQL" width="32px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/graphql/graphql.png" />
-<img align="left" alt="Redis" width="32px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/redis/redis.png" />
-<img align="left" alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/postgresql/postgresql.png" />
-<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/git/git.png" />
-<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/terminal/terminal.png" />
-<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/mongodb/mongodb.png" />
-<img align="left" alt="Kubernetes" width="32px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" />
+My strength lies in taking an innovative approach to new projects and having a deep understanding of various technologies. 
 
+I strive to create efficient and scalable solutions, continuously enhancing my skills and learning new tools.
 
+### Get in Touch
+
+I'm always open to new opportunities and collaborations. If you'd like to connect, feel free to reach out through the email on my profile or connect on [LinkedIn](https://linkedin.com/in/dmitry-filimov-a46835324).
+
+Let's innovate and create together! 🚀
+
+![knaus84's GitHub stats](https://github-readme-stats.vercel.app/api?username=knaus84&theme=dracula&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knaus84&exclude_repo=codingdojo&layout=compact&theme=dracula)
+
+![stats](https://github-readme-streak-stats.herokuapp.com/?user=knaus84&theme=dracula)
