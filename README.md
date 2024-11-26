@@ -7,13 +7,13 @@
 
 ### About Me
 
-I am an experienced Backend Engineer with over 5 years of experience. 
+I am an accomplished Backend Engineer with over 5 years of experience, combining expertise in software development and DevOps practices.
 
-I specialize in development using NestJS and am proficient in programming languages such as PHP, Bash, Node.js, Javascript/TypeScript, Golang, and Python.
+I specialize in building robust solutions with NestJS and have a strong command of languages such as PHP, Bash, Node.js, JavaScript/TypeScript, Golang, and Python.
 
-My strength lies in taking an innovative approach to new projects and having a deep understanding of various technologies. 
+In addition to backend development, I excel in DevOps, with proficiency in Docker, Kubernetes, and managing the entire deployment lifecycle, including designing and maintaining CI/CD pipelines, container orchestration, and ensuring seamless production deployments.
 
-I strive to create efficient and scalable solutions, continuously enhancing my skills and learning new tools.
+My approach emphasizes innovation, a deep understanding of modern technologies, and a commitment to delivering efficient, scalable solutions. I am continually enhancing my expertise and adopting new tools to stay ahead in a fast-evolving industry.
 
 ### Get in Touch
 
