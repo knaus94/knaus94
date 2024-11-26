@@ -7,7 +7,7 @@
 
 ### About Me
 
-I am an experienced Backend Engineer with over 5 years of experience at Laxamentum Technologies. 
+I am an experienced Backend Engineer with over 5 years of experience. 
 
 I specialize in development using NestJS and am proficient in programming languages such as PHP, Bash, Node.js, TypeScript, Golang, and Python.
 
