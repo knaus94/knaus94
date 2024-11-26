@@ -7,7 +7,7 @@
 
 ### About Me
 
-I am a skilled Backend Engineer with over 5 years of experience, adept at merging backend development with modern DevOps practices to deliver comprehensive, end-to-end solutions.
+I am a skilled Backend Engineer with over 3 years of experience, adept at merging backend development with modern DevOps practices to deliver comprehensive, end-to-end solutions.
 
 I specialize in creating scalable systems using NestJS and have extensive experience with programming languages such as PHP, Bash, Node.js, JavaScript/TypeScript, Golang, and Python.
 
