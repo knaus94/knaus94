@@ -23,6 +23,6 @@ Let's innovate and create together! 🚀
 
 ![knaus94's GitHub stats](https://github-readme-stats-wheat-gamma-88.vercel.app/api?username=knaus94&theme=dracula&show_icons=true)
 
-![Top Langs](https://github-readme-stats-wheat-gamma-88.vercel.app/api/top-langs/?username=knaus94&exclude_repo=codingdojo&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats-wheat-gamma-88.vercel.app/api/top-langs/?username=knaus94&exclude_repo=eflbox-admin-master&layout=compact&theme=dracula)
 
 ![stats](https://github-readme-streak-stats.herokuapp.com/?user=knaus94&theme=dracula)
