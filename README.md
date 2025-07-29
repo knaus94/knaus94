@@ -7,17 +7,26 @@
 
 ### About Me
 
-I am a skilled Backend Engineer with over 3 years of experience, adept at merging backend development with modern DevOps practices to deliver comprehensive, end-to-end solutions.
+I am a Backend Engineer with 3 + years of hands‑on experience building robust, scalable services. My primary focus is NestJS, complemented by solid proficiency in PHP, Bash, Node.js, TypeScript, Go, and Python.
 
-I specialize in creating scalable systems using NestJS and have extensive experience with programming languages such as PHP, Bash, Node.js, JavaScript/TypeScript, Golang, and Python.
+### Technical Focus
 
-Beyond backend development, I possess a strong foundation in DevOps, including expertise in Docker, Kubernetes, and infrastructure automation. I am proficient in designing and managing CI/CD pipelines, implementing containerized environments, configuring cloud-native solutions, and maintaining highly available, secure, and optimized production systems. My skill set extends to infrastructure-as-code (IaC) tools such as Terraform and monitoring systems like Prometheus and Grafana, ensuring operational excellence at every stage of the deployment lifecycle.
+Scalable Architecture: Design and implement high‑performance systems that handle rapid growth and complex business logic.
+
+DevOps & Cloud‑Native: Deep experience with Docker and Kubernetes, crafting containerized environments and cloud‑native workloads.
+
+CI/CD & Automation: Build and maintain secure, highly available CI/CD pipelines that streamline delivery and reduce time‑to‑production.
+
+Infrastructure as Code: Provision and manage infrastructure with Terraform, ensuring repeatability and compliance.
+
+Observability & Reliability: Implement comprehensive monitoring with Prometheus and Grafana, enabling proactive performance tuning and incident response.
+
+### Working Style
+I drive projects end‑to‑end—from architecture and coding through deployment and continuous optimization—while fostering clean code, test automation, and sustainable engineering practices.
 
 ### Get in Touch
 
-I'm always open to new opportunities and collaborations. If you'd like to connect, feel free to reach out through the email on my profile or connect on [LinkedIn](https://linkedin.com/in/dmitry-filimov-a46835324).
-
-Let's innovate and create together! 🚀
+I'm always open to new opportunities and collaborations. If you'd like to connect, feel free to reach out through the email on my profile.
 
 ![knaus94's GitHub stats](https://github-readme-stats-wheat-gamma-88.vercel.app/api?username=knaus94&theme=dracula&show_icons=true)
 
